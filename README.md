@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm André Takata 👨‍💻
 
-<!--
-**andretakata-cybersec/andretakata-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity & GRC Expert | 20+ yrs IT | ISO 27001 | LGPD**
 
-Here are some ideas to get you started:
+[![andretakata-cybersec's GitHub stats](https://github-readme-stats.vercel.app/api?username=andretakata-cybersec&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andretakata-cybersec&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛡️ Core Skills
+- **Security**: Zero Trust, MFA, Endpoint Protection, Incident Response
+- **GRC**: ISO 27001, LGPD, COBIT, Risk Assessment
+- **Tech**: PowerShell, Python, Azure AD, Microsoft 365
+
+**Open to remote Senior SecOps/GRC roles US$150k+ | UK/EU sponsorship**
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=andretakata-cybersec)](https://github.com/DenverCoder1/github-readme-streak-stats)
